@@ -126,7 +126,7 @@ function App() {
         <div className="container mx-auto px-4 md:px-6 flex justify-between items-center">
           <div className="flex items-center">
             <Code className="h-8 w-8 text-indigo-600" />
-            <span className="ml-2 text-xl font-bold text-gray-900">Alex Morgan</span>
+            <span className="ml-2 text-xl font-bold text-gray-900">Hassam Ahmed</span>
           </div>
           <div className="hidden md:flex space-x-8">
             <button onClick={() => scrollToSection('services')} className="text-gray-700 hover:text-indigo-600 transition-colors">Services</button>
@@ -291,7 +291,7 @@ function App() {
                 </div>
               </div>
               <p className="text-gray-700 mb-4">
-                "Working with Alex was a game-changer for our business. Our new website increased conversions by 45% and significantly improved our brand perception. The entire process was smooth and professional."
+                "Working with Hassam was a game-changer for our business. Our new website increased conversions by 45% and significantly improved our brand perception. The entire process was smooth and professional."
               </p>
               <p className="text-sm text-gray-500">E-commerce Website Redesign</p>
             </div>
@@ -310,7 +310,7 @@ function App() {
                 </div>
               </div>
               <p className="text-gray-700 mb-4">
-                "Alex delivered our project ahead of schedule and exceeded our expectations. The custom CRM solution helped us streamline operations and reduce administrative costs by 30%. Highly recommended!"
+                "Hassam delivered our project ahead of schedule and exceeded our expectations. The custom CRM solution helped us streamline operations and reduce administrative costs by 30%. Highly recommended!"
               </p>
               <p className="text-sm text-gray-500">Custom CRM Development</p>
             </div>
@@ -329,7 +329,7 @@ function App() {
                 </div>
               </div>
               <p className="text-gray-700 mb-4">
-                "The UI/UX redesign Alex created for our app resulted in a 60% increase in user engagement and a significant decrease in bounce rate. The attention to detail and user-centered approach made all the difference."
+                "The UI/UX redesign Hassam created for our app resulted in a 60% increase in user engagement and a significant decrease in bounce rate. The attention to detail and user-centered approach made all the difference."
               </p>
               <p className="text-sm text-gray-500">Mobile App UI/UX Redesign</p>
             </div>
@@ -560,7 +560,7 @@ function App() {
                     <Mail className="h-6 w-6 text-indigo-600 mt-1 mr-4" />
                     <div>
                       <p className="text-sm text-gray-500">Email</p>
-                      <p className="text-gray-700">hello@alexmorgan.dev</p>
+                      <p className="text-gray-700">hello@hassam.dev</p>
                     </div>
                   </div>
                   
@@ -605,7 +605,7 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center mb-6 md:mb-0">
               <Code className="h-8 w-8 text-indigo-400" />
-              <span className="ml-2 text-xl font-bold">Alex Morgan</span>
+              <span className="ml-2 text-xl font-bold">Hassam Ahmed</span>
             </div>
             
             <div className="flex space-x-6 mb-6 md:mb-0">
@@ -634,7 +634,7 @@ function App() {
           
           <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2025 Alex Morgan . All rights reserved.
+              © 2025 Hassam Ahmed. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">Privacy Policy</a>
