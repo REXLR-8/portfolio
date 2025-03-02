@@ -197,7 +197,7 @@ function App() {
             <div className="md:w-1/2 relative">
               <div className="relative z-10 rounded-lg overflow-hidden shadow-2xl transform transition-transform duration-500 hover:scale-105">
                 <img 
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" 
+                  src="https://i.pinimg.com/736x/1d/dc/31/1ddc31443e87c86a5f355fd9722f1e75.jpg" 
                   alt="Professional headshot" 
                   className="w-full h-auto"
                 />
@@ -374,7 +374,8 @@ function App() {
             {/* Project 1 */}
             <div className="bg-white rounded-lg overflow-hidden shadow-lg transition-all duration-300 hover:shadow-xl">
               <div className="relative">
-                <img src="https://i.pinimg.com/736x/1d/dc/31/1ddc31443e87c86a5f355fd9722f1e75.jpg"
+                <img 
+                  src="https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" 
                   alt="E-commerce Website Redesign" 
                   className="w-full h-64 object-cover"
                 />
