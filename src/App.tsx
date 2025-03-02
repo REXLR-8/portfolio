@@ -336,7 +336,7 @@ function App() {
           </div>
           
           {/* Client Logos */}
-          <div className="mt-20">
+          {/* <div className="mt-20">
             <p className="text-center text-gray-600 mb-8">Trusted by innovative companies</p>
             <div className="flex flex-wrap justify-center items-center gap-8 md:gap-16">
               <div className="grayscale opacity-70 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
@@ -356,7 +356,7 @@ function App() {
                 </svg>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
 
